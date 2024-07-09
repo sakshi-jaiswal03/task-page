@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+}
+section{
+    height: 100%;
+}
+
+.container1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    height: 100%;
+    background-color: #f1f0f6;
+
+}
+.container2{
+    height: 100%;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.form-control{
+    width: 90%;
+    border-radius: 20px 20px;
+    background-color: #f1f0f6;
+}
+
+.d-flex{
+    justify-content: center;
+    align-items: center;
+}
